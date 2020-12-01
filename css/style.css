@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Marck+Script&family=Underdog&display=swap');
+
+section{
+	display: flex;
+	padding: 10px;
+	margin: 10px;
+}
+
+.logo{
+	align-items: center;
+	justify-content: center;
+}
+
+.lion{
+	justify-content: center;
+	
+}
+
+.Hakuna{
+	align-self: flex-end;
+	border-left: 5px solid #FFA500;
+	border-top: 5px solid #FFA500;
+	padding: 10px;
+	margin: 10px;
+	word-spacing: 8px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 18pt;
+	color: #f3cf7b;
+	font-weight: bold;
+	text-shadow: 1px 1px 0px #5b483d;
+}
+
+.hakuna_poem p{
+	border-right: 5px solid #FFA500;
+	border-bottom: 5px solid #FFA500;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	line-height: 1.6;
+	font-family: 'Amatic SC', cursive;
+	color: #9a5217;
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+q{
+	text-indent: 10px;
+	quotes: '<< ' ' >>';
+	font-family: 'Marck Script', cursive;
+	font-size: 30px;
+	font-style: italic;
+	color: #fb017d;
+}
+
+.lion p{
+	font-family: 'Underdog', cursive;
+	font-weight: bold;
+	font-size: 50pt;
+	color: #0411b6;
+	padding: 25px;
+	text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+	0px -3px 1px #5d483d;
+	
+}
+
+.shadow{
+	font-size: 100px;
+	color: #a00358;
+	text-shadow: 3px 2px 0px #f7d8el,
+	5px 5px 10px #f6a9df,
+	-10px 5px 15px #fafb8e,
+	-5px -5px 25px #bb03f7;
+}
+
+.hakuna_all{
+	margin-top: -70px;
+}
